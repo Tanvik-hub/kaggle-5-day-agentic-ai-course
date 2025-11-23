@@ -1,4 +1,4 @@
-# 🧠 Kaggle 5-Day Agentic AI — Hands-On Learning Portfolio
+# 🧠 Kaggle 5-Day Agentic AI — Hands-On Learning
 
 This repository contains all my work from the **Kaggle 5 Days of AI — Agents Track**, where I built multiple **Gemini + ADK agents**, explored **multi-agent systems**, and implemented real workflow patterns used in production-grade agentic systems.
 
